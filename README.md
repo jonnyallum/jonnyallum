@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jonnyallum
-- 👀 I’m interested in Motorcycle racing
-- 🌱 I’m currently learning Ai
-- 💞️ I’m looking to collaborate on Ai
-- 📫 How to reach me ceo@aleejy.ai
+- 👀 I’m interested in IT, Cooking, Motorbike Racing. 
+- 🌱 I’m currently developing AI Infrastructure for Businesses with my startup @kliqtmedia whilst Running my catering business @LittleJonnys, Working as a Personal Chef. 
+- 💞️ I’m looking to find myself a career in Ai implemetation
+- 📫 How to reach me jonnyallum@gmail.com
 - 😄 Pronouns: lets not
 - ⚡ Fun fact: I am a 
 
