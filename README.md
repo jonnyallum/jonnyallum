@@ -1,4 +1,4 @@
-# Jonathan Allum
+# Jonny Allum
 
 ## AI Systems Architect | Founder | Full-Stack Builder
 
