@@ -24,7 +24,7 @@ My work sits at the intersection of:
 ## Core Projects
 
 ### jAIlbreakO.S
-A personal autonomous operating system built around a 108 strong multi-agent orchestration team, shared state, memory, and production-first execution.
+A personal autonomous operating system built around a 108-strong multi-agent orchestration team, shared state, memory, and production-first execution.
 
 ### Antigravity Orchestra
 A shared-brain AI ecosystem designed for coordinated agents, persistent context, intelligent tooling, and autonomous collaboration.
@@ -57,24 +57,20 @@ OpenAI API, Claude API, RAG pipelines, vector databases, workflow orchestration,
 
 ## Background
 
-My background spans management,software engineering, systems design, automation, operations, hospitality, and commercial delivery. I build with the mindset that technology should create leverage, reduce friction, and move fast without breaking the core architecture.
+My background spans management, software engineering, systems design, automation, operations, hospitality, and commercial delivery. I build with the mindset that technology should create leverage, reduce friction, and move fast without breaking the core architecture.
 
 Outside of tech, I spent around fifteen years in motorcycle and sidecar racing, winning championships and competing at British Championship level. That world shaped how I think about pressure, performance, teamwork, and execution.
 
 ## Philosophy
 
-I have an obsessive compulsion to make things better. I cant help myself, everything I look at, I think to myself, is there a better way?
+I have an obsessive compulsion to make things better. I can't help myself — everything I look at, I think: is there a better way?
+
 ---
 
-## 🌍 Connect
+## Connect
 
-- 🌐 [jonnyai.website](https://jonnyai.co.uk) 
-- 📧
-
-- 📧 [info@jonnyai.co.uk](mailto:info@jonnyai.co.uk) [jonnyallum@gmail.com](mailto:jonnyallum@gmail.com)
-
+- 🌐 [jonnyai.co.uk](https://jonnyai.co.uk)
+- 📧 [info@jonnyai.co.uk](mailto:info@jonnyai.co.uk)
 - 🐦 [Twitter/X](https://x.com/jonnyallum)
 
 ---
-
-
